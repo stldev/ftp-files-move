@@ -1,0 +1,25 @@
+{
+  "name": "ftp-files-move",
+  "version": "1.0.0",
+  "description": "Need image files to be in YYYY-MM-DD folders.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "fs-extra": "11.1.0",
+    "moment": "2.29.4",
+    "rimraf": "4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whyld4900/home-automation-camera-ftp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whyld4900/home-automation-camera-ftp/issues"
+  },
+  "homepage": "https://github.com/whyld4900/home-automation-camera-ftp#readme"
+}
